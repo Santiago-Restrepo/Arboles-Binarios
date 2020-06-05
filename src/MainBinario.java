@@ -1,6 +1,7 @@
 /**
  *
  * @author juangalvis
+ * @author SantiagoRestrepo
  */
 public class MainBinario {
 
