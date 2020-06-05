@@ -1,6 +1,7 @@
 /**
  *
- * @author juangalvis
+ * @author JuanGalvis
+ * @author SantiagoRestrepo
  */
 public class Nodo {
 
